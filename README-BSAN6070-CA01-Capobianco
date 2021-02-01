@@ -1,0 +1,12 @@
+Name of Project: 
+Data Cleaning & Exploration-India Air Quality
+
+Project Overview: 
+This project utilizes data cleaning, exploration, and visualization tools to analyze the India Air Quality dataset from Kaggle which addresses several variables to measure air quality from 1990-2015
+
+List of Files: 
+BSAN6070-CA01-Data.csv
+India Air Quality-CA01-Victoria-Capobianco.ipynb
+
+Known Bugs: 
+I could not figure out how to group the data properly in order to produce the scatter plot visuals
