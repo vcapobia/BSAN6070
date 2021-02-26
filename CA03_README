@@ -1,0 +1,15 @@
+Name of Project:
+Class Assignment 3-Decision Tree Classifier
+
+Project Overview:
+This project uses the sklearn.DecisionTreeClassifier to tran, test, and visualize multiple decision trees of varying hyperparameters in order to find the best fitting tree. 
+
+Configuration/Installation Instructions:
+To begin this project, you need to open a colab or Jupyter notebook and import the following packages: pandas as pd, seaborn as sns, sklearn preprocessing, sklearn.tree DecisionClassifier, and sklearn metrics.
+Next, you can upload the Census Data.csv into a dataframe by using pd.read_csv('census_data.csv')
+
+Files Included:
+This assignment contains a README file, CA03-Decision Trees-Write Up PDF, census_data.csv, CA03_DecisionTrees.ipynb
+
+Known Bugs:
+AUC score in part 6  does not run due to unknown inputs, every tree performanc in part 7 is the exact same despite differeing hyperparameters, function to create hyperparameter table is incomplete, part 10 is uncomplete 
