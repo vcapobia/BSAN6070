@@ -8,7 +8,7 @@ Installation Instructions:
 Download the cvd_data.csv file and open a new Notebook (this project uses GoogleColab, but Jupyter Notebook works as well). You will need to import the following packages: Pandas, Numpy, Sklearn.linear_model, Sklearn.metrics. Finally, read the csv file as a DataFrame into your notebook.
 
 Files Included:
-This project contains a README file, a PDF CA05-Written Conclusion & Takeaways, and cvd_data.csv file
+This project contains a README file, a PDF CA05-Written Conclusion & Takeaways,CA-5-LogisticRegression.ipynb notebook, and cvd_data.csv file
 
 Known Bugs:
 None
