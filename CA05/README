@@ -1,0 +1,15 @@
+Name of Project: 
+CA05 Logistic Regression
+
+Project Overview:
+This project utilizes the LogisticRegression model in sklearn to run a logistic regression against the dependent variable of Cardiovascular Disease Risk and 16 independent variables such as age, race, education level, waist/neck circumference etc.
+
+Installation Instructions:
+Download the cvd_data.csv file and open a new Notebook (this project uses GoogleColab, but Jupyter Notebook works as well). You will need to import the following packages: Pandas, Numpy, Sklearn.linear_model, Sklearn.metrics. Finally, read the csv file as a DataFrame into your notebook.
+
+Files Included:
+This project contains a README file, a PDF CA05-Written Conclusion & Takeaways, and cvd_data.csv file
+
+Known Bugs:
+None
+
