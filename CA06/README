@@ -1,0 +1,17 @@
+Name of Project:
+CA06 KNN Model
+
+Project Overview:
+This project creates a back-end recommendation system for a Movies Database using the KNN Machine Learning Algorithm to return the 5 most similar titles to a movie
+
+Installation Instruction:
+Open the .ipynb in either Google Colab or Jupyter Notebook. Upload the movie_recommendations_data.csv file and read it in as a dataframe. If you want to start this project from scratch, the packages you need are: pandas, numpy, sklearn.neighbors, sklearn.metrics
+
+Files Included:
+This project contains a README file, CA06-KNN.ipynb notebook, and movies_recommendation_data.csv file
+
+Known Bugs:
+None
+
+Copyright:
+Data provided by Dr. Arin Brahma
